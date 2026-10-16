@@ -1,0 +1,31 @@
+! ===== 穿山甲 Pangle（红果短剧主要广告来源）=====
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
+||pangolin-sdk-toutiao-b.com^
+||pglstatp-toutiao.com^
+||pangle.io^
+||ad.oceanengine.com^
+||ad.toutiao.com^
+
+! ===== 字节系广告统计 / 上报 =====
+||toblog.ctobsnssdk.com^
+||tobapplog.ctobsnssdk.com^
+||ctobsnssdk.com^
+||mon.zijieapi.com^
+||log.snssdk.com^
+||mon.snssdk.com^
+
+! ===== 红果里可能混用的其他广告联盟 =====
+! 腾讯优量汇
+||gdt.qq.com^
+||mi.gdt.qq.com^
+||adsmind.gdtimg.com^
+! 快手联盟
+||open.e.kuaishou.com^
+||e.kuaishou.com^
+! 百度联盟
+||mobads.baidu.com^
+||mobads-logs.baidu.com^
+! Sigmob
+||sigmob.cn^
+||sigmob.com^
